@@ -1,2 +1,2 @@
 # Data-Science
-udacity and coursrea intro to data science
+udacity and coursera intro to data science
